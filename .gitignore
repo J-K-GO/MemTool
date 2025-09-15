@@ -1,6 +1,6 @@
 # Prerequisites
 *.d
-
+.vs/
 # Compiled Object files
 *.slo
 *.lo
@@ -39,3 +39,14 @@
 
 # debug information files
 *.dwo
+
+# Build outputs
+[Bb]in/
+[Oo]bj/
+x64/
+x86/
+Debug/
+Release/
+packages/
+*.VC.db
+*.VC.opendb
